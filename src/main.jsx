@@ -36,7 +36,7 @@ function App() {
         <div className="title-row">
           <div>
             <p className="eyebrow">Spring Boot + React</p>
-            <h1>Tekken</h1>
+            <h1>Tekken Test</h1>
           </div>
           <Activity aria-hidden="true" />
         </div>
